@@ -1,5 +1,5 @@
 # Movie-Hub
-A streaming site for moves [Click Here](https://remi-dee.github.io/portfolio-website/) to visit
+A streaming site for movies [Click Here](https://remi-dee.github.io/portfolio-website/) to visit
 
 
 
