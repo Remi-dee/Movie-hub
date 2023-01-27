@@ -7,7 +7,7 @@ import SearchIcon from "./image.png";
 
 
 
-const API_URL = "http://www.omdbapi.com?apikey=65b8c89d";
+const API_URL = "https://www.omdbapi.com?apikey=65b8c89d";
 
 
 const App = () => {
@@ -36,7 +36,7 @@ const searchMovies = async (title) => {
 }
   useEffect(() => {
     
-    searchMovies('Batman');
+    searchMovies('Superman');
 
  }, []);
 
